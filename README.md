@@ -131,6 +131,14 @@ To customise these parameters using IDLE please see the IDLE documentation for c
 
 Using VS Code please see the following https://code.visualstudio.com/docs/python/debugging#_args
 
+Please format your CSV file with one datapoint per line with the data being the second item on the line e.g.
+
+```
+1,50.123
+2,52.312
+3,49.931
+```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 

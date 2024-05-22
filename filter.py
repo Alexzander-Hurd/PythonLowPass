@@ -51,8 +51,6 @@ with open(inputPath, 'r') as file:
     for line in file:
         line = line.rstrip('\n')
         linearr = line.split(',')
-        # for data in linearr:
-        #     dataIn.append(float(data))
         dataIn.append(float(linearr[1]))
 
 dataOut = [0.0] * len(dataIn)
